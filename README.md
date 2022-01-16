@@ -1,7 +1,7 @@
 - 🙋🏼‍♂️ Hi, I’m @taroff92
-- 👀 I’m interested in Front End Development
-- 🗿 I’m currently learning React JS
-- 🛠 I’m open for collaboration on any project that involves building UI using latest CSS and JavaScript.
+- 👀 I’m passionate about FrontEnd Development
+- 🗿 I’m currently working on a PWA 
+- 🛠 I’m open for collaboration on any project that involves building UI using latest CSS features and JavaScript/React.
 - 📫 How to reach me - https://www.linkedin.com/in/taron-muradov-699676163/
 
 <!---
